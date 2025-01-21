@@ -27,7 +27,8 @@ Permissões:
    * Execute o comando:
      ```
        wsl --install
-  *Acesse a Microsoft Store,instale o Ubuntu e configure nome de usuário e senha.
+    *Acesse a Microsoft Store,instale o Ubuntu e configure nome de usuário e senha.
+  
 2. Atualizar o Sistema:
    * No terminal Ubuntu, execute:
     ```
